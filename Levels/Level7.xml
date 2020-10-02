@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level Number="7">
+	<PillCount>3</PillCount>
+	<Range>-10,10</Range>
+	<HealthyThreshold>20</HealthyThreshold>
+	<Diseases>
+		<Disease Type="Heart">
+			<Range>0,100</Range>
+			<InitialPoint>50</InitialPoint>
+		</Disease>
+		<Disease Type="Stomach">
+			<Range>0,100</Range>
+			<InitialPoint>50</InitialPoint>
+		</Disease>
+		<Disease Type="Bone">
+			<Range>0,100</Range>
+			<InitialPoint>50</InitialPoint>
+		</Disease>
+	</Diseases>
+</Level>
